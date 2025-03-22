@@ -1,0 +1,17 @@
+{
+	"id": "boykisserjokers",
+	"name": "BoykisserJokers",
+	"author": [
+		"melncat"
+	],
+	"description": "Turns all jokers into boykissers.",
+	"prefix": "boykisserjokers",
+	"main_file": "main.lua",
+	"badge_colour": "ffffff",
+	"badge_text_colour": "000000",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"malverk"
+	]
+}
